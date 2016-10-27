@@ -17,3 +17,23 @@ html {
   border: 3px solid #fff;
   color: #15114c;
 }
+
+.nav {
+  text-align: center;
+}
+
+.logo {
+  text-align: center;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .nav {
+    text-align: right;
+  }
+
+  .logo {
+    text-align: left;
+  }
+
+}
