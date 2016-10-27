@@ -1,0 +1,19 @@
+html {
+  color: #fff;
+  font-family: Abhaya;
+}
+
+.masthead {
+  background-color: #423ca3;
+}
+
+.btn {
+  background-color: #15114c;
+  border: 3px solid #15144c;
+}
+
+.btn:hover {
+  background-color: #fff;
+  border: 3px solid #fff;
+  color: #15114c;
+}
